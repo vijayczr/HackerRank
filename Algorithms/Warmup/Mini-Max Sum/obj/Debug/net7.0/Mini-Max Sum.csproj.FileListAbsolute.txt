@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.exe
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\refint\Mini-Max Sum.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Mini-Max Sum\obj\Debug\net7.0\ref\Mini-Max Sum.dll
