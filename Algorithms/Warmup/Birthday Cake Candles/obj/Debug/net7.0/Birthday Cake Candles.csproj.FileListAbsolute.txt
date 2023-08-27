@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\bin\Debug\net7.0\Birthday Cake Candles.exe
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\bin\Debug\net7.0\Birthday Cake Candles.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\bin\Debug\net7.0\Birthday Cake Candles.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\bin\Debug\net7.0\Birthday Cake Candles.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\bin\Debug\net7.0\Birthday Cake Candles.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\refint\Birthday Cake Candles.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\Birthday Cake Candles.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Birthday Cake Candles\obj\Debug\net7.0\ref\Birthday Cake Candles.dll
