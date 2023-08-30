@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\bin\Debug\net7.0\Time Conversion.exe
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\bin\Debug\net7.0\Time Conversion.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\bin\Debug\net7.0\Time Conversion.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\bin\Debug\net7.0\Time Conversion.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\bin\Debug\net7.0\Time Conversion.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\refint\Time Conversion.dll
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\Time Conversion.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\Warmup\Time Conversion\obj\Debug\net7.0\ref\Time Conversion.dll
