@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\bin\Debug\net7.0\Extra Long Factorials.exe
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\bin\Debug\net7.0\Extra Long Factorials.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\bin\Debug\net7.0\Extra Long Factorials.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\bin\Debug\net7.0\Extra Long Factorials.dll
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\bin\Debug\net7.0\Extra Long Factorials.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.dll
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\refint\Extra Long Factorials.dll
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\Extra Long Factorials.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\Implementaion\Extra Long Factorials\obj\Debug\net7.0\ref\Extra Long Factorials.dll
