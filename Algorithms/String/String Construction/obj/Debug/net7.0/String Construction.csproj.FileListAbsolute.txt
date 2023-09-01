@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\bin\Debug\net7.0\String Construction.exe
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\bin\Debug\net7.0\String Construction.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\bin\Debug\net7.0\String Construction.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\bin\Debug\net7.0\String Construction.dll
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\bin\Debug\net7.0\String Construction.pdb
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.dll
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\refint\String Construction.dll
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.pdb
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\String Construction.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\String Construction\obj\Debug\net7.0\ref\String Construction.dll

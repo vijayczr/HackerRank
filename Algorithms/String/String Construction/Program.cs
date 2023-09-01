@@ -43,6 +43,7 @@ class Solution
             string s = Console.ReadLine();
 
             int result = Result.stringConstruction(s);
+            Console.WriteLine(result);
         }
 
     }
