@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\bin\Debug\net7.0\Pairs.exe
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\bin\Debug\net7.0\Pairs.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\bin\Debug\net7.0\Pairs.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\bin\Debug\net7.0\Pairs.dll
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\bin\Debug\net7.0\Pairs.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.dll
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\refint\Pairs.dll
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\Pairs.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Pairs\obj\Debug\net7.0\ref\Pairs.dll
