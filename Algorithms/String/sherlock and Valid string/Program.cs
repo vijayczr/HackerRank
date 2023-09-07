@@ -11,6 +11,7 @@ using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Text;
 using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 class Result
 {
@@ -36,31 +37,27 @@ class Result
                 counted[s[i]] += 1;
             }
         }
-        var x = counted.OrderBy(u => u.Value);
-        int count = 0;
-        int y = 0;
-        foreach (var dat in x)
+        var dist = new Dictionary<int, int>();
+        foreach (var c in counted.Values)
         {
-            if (y == 0)
+            if (!dist.ContainsKey(c))
             {
-                y = dat.Value;
-                continue;
+                dist.Add(c, 1);
             }
-            if (dat.Value != y)
+            else
             {
-                count += dat.Value - y;
-                y = dat.Value;
+                dist[c] += 1;
             }
-
         }
-        if (count > 1)
+        if(dist.Count > 2) { return "NO"; }
+        else if(dist.Count ==2)
         {
-            return "NO";
+            if(dist.First().Value != 1 && dist.Last().Value != 1)
+            {
+                return "NO";
+            }
         }
-        else
-        {
-            return "YES";
-        }
+        return "YES";
     }
 
 }
