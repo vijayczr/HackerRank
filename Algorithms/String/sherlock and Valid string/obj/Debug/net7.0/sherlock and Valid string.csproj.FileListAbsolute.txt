@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\bin\Debug\net7.0\sherlock and Valid string.exe
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\bin\Debug\net7.0\sherlock and Valid string.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\bin\Debug\net7.0\sherlock and Valid string.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\bin\Debug\net7.0\sherlock and Valid string.dll
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\bin\Debug\net7.0\sherlock and Valid string.pdb
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.dll
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\refint\sherlock and Valid string.dll
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.pdb
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\sherlock and Valid string.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\String\sherlock and Valid string\obj\Debug\net7.0\ref\sherlock and Valid string.dll
