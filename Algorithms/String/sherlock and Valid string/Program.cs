@@ -52,10 +52,11 @@ class Result
         if(dist.Count > 2) { return "NO"; }
         else if(dist.Count ==2)
         {
-            if(dist.First().Value != 1 && dist.Last().Value != 1)
+            if(dist.First().Value ==1 || dist.Last().Value ==1)
             {
-                return "NO";
+                return "YES";
             }
+            else {return  "NO"; }
         }
         return "YES";
     }
@@ -67,9 +68,12 @@ class Solution
     public static void Main(string[] args)
     {
         Console.WriteLine("Enter the string to be checked!");
-        string s = Console.ReadLine();
-
-        string result = Result.isValid(s);
-        Console.WriteLine(result);
+        string? s = Console.ReadLine();
+        if (s != null)
+        {
+            string result = Result.isValid(s);
+            Console.WriteLine(result);
+        }
+        else { Console.WriteLine("ok"); }
     }
 }
