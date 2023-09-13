@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\bin\Debug\net7.0\Sherlock and Array.exe
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\bin\Debug\net7.0\Sherlock and Array.deps.json
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\bin\Debug\net7.0\Sherlock and Array.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\bin\Debug\net7.0\Sherlock and Array.dll
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\bin\Debug\net7.0\Sherlock and Array.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.dll
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\refint\Sherlock and Array.dll
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.pdb
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\Sherlock and Array.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Algorithms\Search\Sherlock and Array\obj\Debug\net7.0\ref\Sherlock and Array.dll
