@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "queue using two stacks/1.0.0": {
+        "runtime": {
+          "queue using two stacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "queue using two stacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

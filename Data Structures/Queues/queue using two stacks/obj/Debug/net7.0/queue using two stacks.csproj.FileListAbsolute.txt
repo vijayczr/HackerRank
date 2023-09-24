@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\bin\Debug\net7.0\queue using two stacks.exe
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\bin\Debug\net7.0\queue using two stacks.deps.json
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\bin\Debug\net7.0\queue using two stacks.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\bin\Debug\net7.0\queue using two stacks.dll
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\bin\Debug\net7.0\queue using two stacks.pdb
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.dll
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\refint\queue using two stacks.dll
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.pdb
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\queue using two stacks.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Data Structures\Queues\queue using two stacks\obj\Debug\net7.0\ref\queue using two stacks.dll
