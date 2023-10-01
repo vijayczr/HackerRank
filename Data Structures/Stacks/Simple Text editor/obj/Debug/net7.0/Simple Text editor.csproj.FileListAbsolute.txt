@@ -1,0 +1,15 @@
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\bin\Debug\net7.0\Simple Text editor.exe
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\bin\Debug\net7.0\Simple Text editor.deps.json
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\bin\Debug\net7.0\Simple Text editor.runtimeconfig.json
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\bin\Debug\net7.0\Simple Text editor.dll
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\bin\Debug\net7.0\Simple Text editor.pdb
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.csproj.AssemblyReference.cache
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.AssemblyInfoInputs.cache
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.AssemblyInfo.cs
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.dll
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\refint\Simple Text editor.dll
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.pdb
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\Simple Text editor.genruntimeconfig.cache
+D:\VJ_Projects\HackerRank\Data Structures\Stacks\Simple Text editor\obj\Debug\net7.0\ref\Simple Text editor.dll
