@@ -79,6 +79,7 @@ class Solution
         foreach (string opsItem in res)
         {
             Console.WriteLine(opsItem);
+            Console.WriteLine();
         }
     }
 }
