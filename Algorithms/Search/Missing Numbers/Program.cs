@@ -61,7 +61,7 @@ class Solution
 
         foreach(var data in result)
         {
-            Console.WriteLine(data); ;
+            Console.WriteLine(data); 
         }
     }
 }
