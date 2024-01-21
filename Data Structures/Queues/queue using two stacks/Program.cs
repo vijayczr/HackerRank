@@ -67,7 +67,7 @@ class Solution
         List<int> res = Result.getMax(ops);
         foreach (var item in res)
         {
-            Console.WriteLine(item);
+            Console.WriteLine(item); ;
         }
     }
 }
