@@ -73,10 +73,10 @@ class Solution
     public static void Main(string[] args)
     {
 
-        int T = Convert.ToInt32(Console.ReadLine().Trim());
+        int T = Convert.ToInt32(Console.ReadLine().Trim()); 
         List<string> res = new List<string>();
 
-        for (int TItr = 0; TItr < T; TItr++)
+        for (int TItr = 0; TItr < T; TItr++) 
         {
             int n = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -87,7 +87,7 @@ class Solution
         }
         foreach (string s in res)
         {
-            Console.WriteLine(s);
+            Console.WriteLine(s);  
         }
     }
 }
